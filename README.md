@@ -21,9 +21,9 @@
    ```bash
    npm run server
    ```
- # Book Management API  Overview
+ # user auth  API  Overview
 
-This is a RESTful API for managing books. It allows users to perform CRUD (Create, Read, Update, Delete) operations on book data. The API is built using Node.js, Express.js, and MongoDB(moongoose).
+This is a RESTful API for  registering users  and creating access_token for authozising  this user at  the books management microservice api. 
 
 ## API Endpoints and Discriptions
 - **User Registeration:**
