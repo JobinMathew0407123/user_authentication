@@ -19,7 +19,7 @@
 5. Run the application.
 
    ```bash
-   npm run server
+   node app.js
    ```
  # user auth  API  Overview
 
